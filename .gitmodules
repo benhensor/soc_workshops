@@ -1,0 +1,38 @@
+[submodule "https:/github.com/benhensor/school_of_code_workshops.git"]
+	path = https:/github.com/benhensor/school_of_code_workshops.git
+[submodule "workshops"]
+	path = workshops
+	url = https://github.com/benhensor/bc14_w1d2_workshop_git-in-teams-room-22-akiel-and-ben.git
+[submodule "bc14_w1d2_workshop_git-in-teams-room-22-akiel-and-ben.git"]
+	path = bc14_w1d2_workshop_git-in-teams-room-22-akiel-and-ben.git
+	url = https://github.com/benhensor/bc14_w1d2_workshop_git-in-teams-room-22-akiel-and-ben.git
+[submodule "bc14_w1d3_workshop_js-101-room-22-akiel-and-ben.git"]
+	path = bc14_w1d3_workshop_js-101-room-22-akiel-and-ben.git
+	url = https://github.com/benhensor/bc14_w1d3_workshop_js-101-room-22-akiel-and-ben.git
+[submodule "bc14_w1d3_workshop_js-102-room-22-akiel-and-ben"]
+	path = bc14_w1d3_workshop_js-102-room-22-akiel-and-ben
+	url = https://github.com/benhensor/bc14_w1d3_workshop_js-102-room-22-akiel-and-ben.git
+[submodule "bc14_w1d4_workshop_arrays-room-22-akiel-and-ben"]
+	path = bc14_w1d4_workshop_arrays-room-22-akiel-and-ben
+	url = https://github.com/benhensor/bc14_w1d4_workshop_arrays-room-22-akiel-and-ben.git
+[submodule "bc14_w1d4_workshop_objects-room-22-akiel-and-ben"]
+	path = bc14_w1d4_workshop_objects-room-22-akiel-and-ben
+	url = https://github.com/benhensor/bc14_w1d4_workshop_objects-room-22-akiel-and-ben.git
+[submodule "bc14_w2d1_workshop_dom-102-benhensor"]
+	path = bc14_w2d1_workshop_dom-102-benhensor
+	url = https://github.com/benhensor/bc14_w2d1_workshop_dom-102-benhensor.git
+[submodule "bc14_w2d2_workshop_events-101-room_16_catherine_ben_bianca"]
+	path = bc14_w2d2_workshop_events-101-room_16_catherine_ben_bianca
+	url = https://github.com/benhensor/bc14_w2d2_workshop_events-101-room_16_catherine_ben_bianca.git
+[submodule "bc14_w2d2_workshop_rps-in-dom-benhensor.git"]
+	path = bc14_w2d2_workshop_rps-in-dom-benhensor.git
+	url = https://github.com/benhensor/bc14_w2d2_workshop_rps-in-dom-benhensor.git
+[submodule "bc14_w2d3_workshop_async-clock-room_16_ben_bianca_catherine.git"]
+	path = bc14_w2d3_workshop_async-clock-room_16_ben_bianca_catherine.git
+	url = https://github.com/benhensor/bc14_w2d3_workshop_async-clock-room_16_ben_bianca_catherine.git
+[submodule "bc14_w2d3_workshop_fetch-benhensor.git"]
+	path = bc14_w2d3_workshop_fetch-benhensor.git
+	url = https://github.com/benhensor/bc14_w2d3_workshop_fetch-benhensor.git
+[submodule "bc14_w3d3_workshop_clone-a-page-benhensor.git"]
+	path = bc14_w3d3_workshop_clone-a-page-benhensor.git
+	url = https://github.com/benhensor/bc14_w3d3_workshop_clone-a-page-benhensor.git
